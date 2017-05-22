@@ -1,0 +1,27 @@
+{
+  "name": "wpjsx",
+  "version": "1.0.0",
+  "description": "Taller de WordPress.com + ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "Damian Suarez (http://retrofox.blog/)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "next": "^2.4.0",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-config-wpcalypso": "^0.8.0",
+    "eslint-plugin-react": "^7.0.1",
+    "eslint-plugin-wpcalypso": "^3.3.0"
+  }
+}
